@@ -33,11 +33,11 @@ Google Gemini API
 
 ## Backend (Spring Boot)
 ### Tech Stack
---Java 17+
---Spring Boot
---RESTful API
---Google Gemini API client
---Lombok 
+- Java 17+
+- Spring Boot
+- RESTful API
+- Google Gemini API client
+- Lombok 
 
 
 
